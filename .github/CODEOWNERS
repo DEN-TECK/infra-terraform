@@ -1,4 +1,5 @@
 .github/workflows/ @DEN-TECK/devops-team
+/terraform/ @DEN-TECK/platform-team
 
 
 
